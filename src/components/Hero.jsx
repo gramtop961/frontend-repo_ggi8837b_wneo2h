@@ -18,7 +18,7 @@ export default function Hero({ onViewWorks }) {
   return (
     <section id="home" className="relative h-screen w-full overflow-hidden bg-black text-white">
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/7m4PRZ7kg6K1jPfF/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/4Zh-Q6DWWp5yPnQf/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
 
       {/* subtle gradient glow overlay (non-blocking) */}
